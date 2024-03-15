@@ -50,6 +50,3 @@ Video: [Real-world flight on Youtube](abc).
 ## Quick start - image demo
     $ git clone https://github.com/shushuai3/deepMulti-robot.git
     
-
-<!-- ## Quick start - running on robot
-    $ python3 main_simulation.py -->
