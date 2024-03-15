@@ -47,6 +47,4 @@ Video: [Real-world flight on Youtube](abc).
  - locaNet & locaAIdeck (Python 3.6, pip=20.1.1, tensorflow==2.1.2, h5py==2.10.0)
  - dataset (Blender, numpy, csv, statistics)
 
-## Quick start - image demo
-    $ git clone https://github.com/shushuai3/deepMulti-robot.git
     
