@@ -1,4 +1,4 @@
-# adaptation
+# Research project adaptation
 
 An anaconda virtual environment is used for running this program with the right dependencies. First, install anaconda by following the instructions in https://conda.io/projects/conda/en/latest/user-guide/install/linux.html. Then create a conda environment with Python version 3.6, and install the required dependencies in this environment: 
 
