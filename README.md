@@ -18,7 +18,7 @@ It should also be possible to flash this model on the AI deck, and run it on-boa
 
 Demo.py is the script performing image predictions. The trained model is retrieved from https://tubcloud.tu-berlin.de/s/Sa5rN5JK7poGawr (IMRC lab Berlin). This research used the pre-trained model: models/loca_net_models/locanet/random-flight-filter1. In line 70 this file should be read. Make sure that the Conda environment is activated when using the Python script.
 
-The  results can be found in Google drive. In the final report in chapter 5.4. The raw images captured during flight, before classification, are listed in Google Drive under data/raw images/raw. An example of a successful, failed, and false positive classification is found in final plots thesis on the Google drive.
+The  results can be found in Google drive. In the final report in chapter 5.4. The raw images captured during flight, before classification, are listed in Google Drive under data/raw images/raw. An example of a successful, failed, and false positive classification is found in /final plots thesis on the Google drive.
  
 
 # locaNet - Monocular Multi-robot Relative Localization with Deep Neural Networks
